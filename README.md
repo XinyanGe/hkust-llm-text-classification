@@ -1,2 +1,25 @@
-# hkust-llm-text-classification
-Research on LLM-based text classification using soft-prompt and fine-tuning methods under the supervision of Prof. Miaozhe Han (HKUST).
+# LLM-based Text Classification with Soft-Prompt and Determined Fine-Tuning  
+**Research Assistant Project @ HKUST (with Prof. Miaozhe Han)**  
+
+This project explores soft-prompt tuning and determined fine-tuning methods for large language model (LLM) based text classification.  
+I contributed to building a large-scale dataset pipeline (230k+ samples), implementing fine-tuning frameworks, and evaluating multiple models including LLaMA and GPT-3.5-turbo.
+
+## Overview  
+The research aims to improve classification performance and efficiency in LLMs through lightweight tuning methods.  
+My role involved data preprocessing, prompt-based model adaptation, and result analysis under supervised training frameworks.
+
+## Key Components  
+- Data pipeline construction and cleaning (230k+ samples)  
+- Implementation of soft-prompt tuning and determined fine-tuning  
+- Cross-model evaluation (LLaMA, GPT-3.5-turbo)  
+- Comparative analysis of model performance and efficiency  
+
+## Technologies  
+- Python, PyTorch  
+- Hugging Face Transformers  
+- Pandas, NumPy  
+- Determined AI (DFT framework)  
+
+## Note  
+Due to research confidentiality, only non-sensitive parts of the project are shared.  
+For more details, please contact me at [xg2280@nyu.edu](mailto:xg2280@nyu.edu).
