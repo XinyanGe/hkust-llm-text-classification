@@ -20,7 +20,7 @@ My role involved data preprocessing, prompt-based model adaptation, and result a
 - Pandas, NumPy  
 - Determined AI (DFT framework)
 
-## 📘 Included Tools
+## Included Tools
 ### `get_abstract_2_multupdate3.py`  
 A **high-performance Hugging Face Spaces data collector** developed during my RA work at HKUST.  
 It supports **multi-threaded crawling**, **commit-level history tracking**, and **metadata extraction**,  
