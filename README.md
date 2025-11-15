@@ -27,9 +27,11 @@ It supports **multi-threaded crawling**, **commit-level history tracking**, and 
 enabling large-scale analysis of **model repository evolution** and **reproducibility**.
 
 **Usage:**
-```bash
+```
+bash
 export HF_TOKEN="your_hf_token"
-python get_abstract_2_multupdate3.py```
+python get_abstract_2_multupdate3.py
+```
 
 ## Note  
 Due to research confidentiality, only non-sensitive parts of the project are shared.  
