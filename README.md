@@ -18,7 +18,18 @@ My role involved data preprocessing, prompt-based model adaptation, and result a
 - Python, PyTorch  
 - Hugging Face Transformers  
 - Pandas, NumPy  
-- Determined AI (DFT framework)  
+- Determined AI (DFT framework)
+
+## 📘 Included Tools
+### `get_abstract_2_multupdate3.py`  
+A **high-performance Hugging Face Spaces data collector** developed during my RA work at HKUST.  
+It supports **multi-threaded crawling**, **commit-level history tracking**, and **metadata extraction**,  
+enabling large-scale analysis of **model repository evolution** and **reproducibility**.
+
+**Usage:**
+```bash
+export HF_TOKEN="your_hf_token"
+python get_abstract_2_multupdate3.py
 
 ## Note  
 Due to research confidentiality, only non-sensitive parts of the project are shared.  
